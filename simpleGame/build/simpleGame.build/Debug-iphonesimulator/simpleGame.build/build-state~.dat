@@ -1,0 +1,322 @@
+TsimpleGame
+v7
+r0
+t358756869.939262
+cCheck dependencies
+cProcessInfoPlistFile /Users/nextstep/Desktop/simpleGame/build/Debug-iphonesimulator/simpleGame.app/Info.plist simpleGame-Info.plist
+cCompileXIB /Users/nextstep/Desktop/simpleGame/MainWindow.xib
+cCompileXIB /Users/nextstep/Desktop/simpleGame/simpleGameViewController.xib
+cCpResource build/Debug-iphonesimulator/simpleGame.app/tennis1.jpeg tennis1.jpeg
+cCpResource build/Debug-iphonesimulator/simpleGame.app/tennis.jpg tennis.jpg
+cProcessPCH /var/folders/0G/0GROdNlbFX4fP0X0dyAlqE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/simpleGame_Prefix-bxjculojflyopwbsmacymmxliacg/simpleGame_Prefix.pch.gch simpleGame_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/simpleGame.build/Debug-iphonesimulator/simpleGame.build/Objects-normal/i386/main.o /Users/nextstep/Desktop/simpleGame/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/simpleGame.build/Debug-iphonesimulator/simpleGame.build/Objects-normal/i386/simpleGameAppDelegate.o /Users/nextstep/Desktop/simpleGame/Classes/simpleGameAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/simpleGame.build/Debug-iphonesimulator/simpleGame.build/Objects-normal/i386/simpleGameViewController.o /Users/nextstep/Desktop/simpleGame/Classes/simpleGameViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004F36188E0000000000000110
+t1328945294
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/nextstep/Desktop/simpleGame/Classes/simpleGameAppDelegate.h
+c000000004FB1F5AA00000000000001EE
+t1337062826
+s494
+i<UIKit/UIKit.h>
+
+N/Users/nextstep/Desktop/simpleGame/Classes/simpleGameAppDelegate.m
+c000000004FB1F5AA0000000000000AA1
+t1337062826
+s2721
+i"simpleGameAppDelegate.h"
+i"simpleGameViewController.h"
+
+N/Users/nextstep/Desktop/simpleGame/Classes/simpleGameViewController.h
+c000000004FB1F78A0000000000000187
+t1337063306
+s391
+i<UIKit/UIKit.h>
+
+N/Users/nextstep/Desktop/simpleGame/Classes/simpleGameViewController.m
+c000000004FB1FA8100000000000008A0
+t1337064065
+s2208
+i"simpleGameViewController.h"
+
+N/Users/nextstep/Desktop/simpleGame/MainWindow.xib
+c000000004FB1F5AA0000000000004E4D
+t1337062826
+s20045
+
+N/Users/nextstep/Desktop/simpleGame/build/Debug-iphonesimulator/simpleGame.app
+t2
+s0
+
+N/Users/nextstep/Desktop/simpleGame/build/Debug-iphonesimulator/simpleGame.app.dSYM
+t2
+s0
+
+N/Users/nextstep/Desktop/simpleGame/build/Debug-iphonesimulator/simpleGame.app/Info.plist
+t1337064068
+s603
+
+N/Users/nextstep/Desktop/simpleGame/build/Debug-iphonesimulator/simpleGame.app/MainWindow.nib
+t1337064068
+s1129
+
+N/Users/nextstep/Desktop/simpleGame/build/Debug-iphonesimulator/simpleGame.app/PkgInfo
+t1337064068
+s8
+
+N/Users/nextstep/Desktop/simpleGame/build/Debug-iphonesimulator/simpleGame.app/simpleGame
+t2
+s0
+
+N/Users/nextstep/Desktop/simpleGame/build/Debug-iphonesimulator/simpleGame.app/simpleGameViewController.nib
+t1337064068
+s795
+
+N/Users/nextstep/Desktop/simpleGame/build/Debug-iphonesimulator/simpleGame.app/tennis.jpg
+t1337064068
+s15029
+
+N/Users/nextstep/Desktop/simpleGame/build/Debug-iphonesimulator/simpleGame.app/tennis1.jpeg
+t1337064068
+s6629
+
+N/Users/nextstep/Desktop/simpleGame/build/simpleGame.build/Debug-iphonesimulator/simpleGame.build/Objects-normal/i386/main.o
+t1337064069
+s6296
+
+N/Users/nextstep/Desktop/simpleGame/build/simpleGame.build/Debug-iphonesimulator/simpleGame.build/Objects-normal/i386/simpleGame.LinkFileList
+c000000004FB1FA840000000000000199
+t1337064068
+s409
+
+N/Users/nextstep/Desktop/simpleGame/build/simpleGame.build/Debug-iphonesimulator/simpleGame.build/Objects-normal/i386/simpleGameAppDelegate.o
+t1337064069
+s51188
+
+N/Users/nextstep/Desktop/simpleGame/build/simpleGame.build/Debug-iphonesimulator/simpleGame.build/Objects-normal/i386/simpleGameViewController.o
+t2
+s0
+
+N/Users/nextstep/Desktop/simpleGame/main.m
+c000000004FB1F5AA0000000000000169
+t1337062826
+s361
+i<UIKit/UIKit.h>
+
+N/Users/nextstep/Desktop/simpleGame/simpleGameViewController.xib
+c000000004FB1F5AA0000000000001A51
+t1337062826
+s6737
+
+N/Users/nextstep/Desktop/simpleGame/simpleGame_Prefix.pch
+c000000004FB1F5AA00000000000000BD
+t1337062826
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/nextstep/Desktop/simpleGame/tennis.jpg
+c000000004FB1F5F90000000000003AB5
+t1337062905
+s15029
+
+N/Users/nextstep/Desktop/simpleGame/tennis1.jpeg
+c000000004FB1F64E00000000000019E5
+t1337062990
+s6629
+
+N/var/folders/0G/0GROdNlbFX4fP0X0dyAlqE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/simpleGame_Prefix-bxjculojflyopwbsmacymmxliacg/simpleGame_Prefix.pch.gch
+t1337064069
+s15453392
+
+NsimpleGame-Info.plist
+c000000004FB1F5AA000000000000038D
+t1337062826
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies358756868#358756868#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/simpleGame.build/Debug-iphonesimulator/simpleGame.build/Objects-normal/i386/main.o /Users/nextstep/Desktop/simpleGame/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s358756869.737402
+e358756869.855188
+r1
+xCompileC
+xbuild/simpleGame.build/Debug-iphonesimulator/simpleGame.build/Objects-normal/i386/main.o
+x/Users/nextstep/Desktop/simpleGame/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@49"Compile /Users/nextstep/Desktop/simpleGame/main.m358756869#358756869#0(0"0(0#0#41"/Users/nextstep/Desktop/simpleGame/main.m8623833024#1930"    cd /Users/nextstep/Desktop/simpleGame    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/nextstep/Desktop/simpleGame/build/simpleGame.build/Debug-iphonesimulator/simpleGame.build/simpleGame-generated-files.hmap -I/Users/nextstep/Desktop/simpleGame/build/simpleGame.build/Debug-iphonesimulator/simpleGame.build/simpleGame-own-target-headers.hmap -I/Users/nextstep/Desktop/simpleGame/build/simpleGame.build/Debug-iphonesimulator/simpleGame.build/simpleGame-all-target-headers.hmap -iquote /Users/nextstep/Desktop/simpleGame/build/simpleGame.build/Debug-iphonesimulator/simpleGame.build/simpleGame-project-headers.hmap -F/Users/nextstep/Desktop/simpleGame/build/Debug-iphonesimulator -I/Users/nextstep/Desktop/simpleGame/build/Debug-iphonesimulator/include -I/Users/nextstep/Desktop/simpleGame/build/simpleGame.build/Debug-iphonesimulator/simpleGame.build/DerivedSources/i386 -I/Users/nextstep/Desktop/simpleGame/build/simpleGame.build/Debug-iphonesimulator/simpleGame.build/DerivedSources -include /var/folders/0G/0GROdNlbFX4fP0X0dyAlqE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/simpleGame_Prefix-bxjculojflyopwbsmacymmxliacg/simpleGame_Prefix.pch -c /Users/nextstep/Desktop/simpleGame/main.m -o /Users/nextstep/Desktop/simpleGame/build/simpleGame.build/Debug-iphonesimulator/simpleGame.build/Objects-normal/i386/main.o0#
+
+CCompileC build/simpleGame.build/Debug-iphonesimulator/simpleGame.build/Objects-normal/i386/simpleGameAppDelegate.o /Users/nextstep/Desktop/simpleGame/Classes/simpleGameAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s358756869.738780
+e358756869.901958
+r1
+xCompileC
+xbuild/simpleGame.build/Debug-iphonesimulator/simpleGame.build/Objects-normal/i386/simpleGameAppDelegate.o
+x/Users/nextstep/Desktop/simpleGame/Classes/simpleGameAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/nextstep/Desktop/simpleGame/Classes/simpleGameAppDelegate.m358756869#358756869#0(0"0(0#0#66"/Users/nextstep/Desktop/simpleGame/Classes/simpleGameAppDelegate.m8626887552#1972"    cd /Users/nextstep/Desktop/simpleGame    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/nextstep/Desktop/simpleGame/build/simpleGame.build/Debug-iphonesimulator/simpleGame.build/simpleGame-generated-files.hmap -I/Users/nextstep/Desktop/simpleGame/build/simpleGame.build/Debug-iphonesimulator/simpleGame.build/simpleGame-own-target-headers.hmap -I/Users/nextstep/Desktop/simpleGame/build/simpleGame.build/Debug-iphonesimulator/simpleGame.build/simpleGame-all-target-headers.hmap -iquote /Users/nextstep/Desktop/simpleGame/build/simpleGame.build/Debug-iphonesimulator/simpleGame.build/simpleGame-project-headers.hmap -F/Users/nextstep/Desktop/simpleGame/build/Debug-iphonesimulator -I/Users/nextstep/Desktop/simpleGame/build/Debug-iphonesimulator/include -I/Users/nextstep/Desktop/simpleGame/build/simpleGame.build/Debug-iphonesimulator/simpleGame.build/DerivedSources/i386 -I/Users/nextstep/Desktop/simpleGame/build/simpleGame.build/Debug-iphonesimulator/simpleGame.build/DerivedSources -include /var/folders/0G/0GROdNlbFX4fP0X0dyAlqE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/simpleGame_Prefix-bxjculojflyopwbsmacymmxliacg/simpleGame_Prefix.pch -c /Users/nextstep/Desktop/simpleGame/Classes/simpleGameAppDelegate.m -o /Users/nextstep/Desktop/simpleGame/build/simpleGame.build/Debug-iphonesimulator/simpleGame.build/Objects-normal/i386/simpleGameAppDelegate.o0#
+
+CCompileC build/simpleGame.build/Debug-iphonesimulator/simpleGame.build/Objects-normal/i386/simpleGameViewController.o /Users/nextstep/Desktop/simpleGame/Classes/simpleGameViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s358756869.855316
+e358756869.939160
+r0
+xCompileC
+xbuild/simpleGame.build/Debug-iphonesimulator/simpleGame.build/Objects-normal/i386/simpleGameViewController.o
+x/Users/nextstep/Desktop/simpleGame/Classes/simpleGameViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/nextstep/Desktop/simpleGame/Classes/simpleGameViewController.m: In function '-[simpleGameViewController onTimer]':
+o/Users/nextstep/Desktop/simpleGame/Classes/simpleGameViewController.m:47: warning: 'simpleGameViewController' may not respond to '-chechCollision'
+o/Users/nextstep/Desktop/simpleGame/Classes/simpleGameViewController.m:47: warning: (Messages without a matching method signature
+o/Users/nextstep/Desktop/simpleGame/Classes/simpleGameViewController.m:47: warning: will be assumed to return 'id' and accept
+o/Users/nextstep/Desktop/simpleGame/Classes/simpleGameViewController.m:47: warning: '...' as arguments.)
+o/Users/nextstep/Desktop/simpleGame/Classes/simpleGameViewController.m:48: error: invalid operands to binary + (have 'CGPoint' and 'CGFloat')
+o/Users/nextstep/Desktop/simpleGame/Classes/simpleGameViewController.m:48: error: invalid operands to binary + (have 'CGPoint' and 'CGFloat')
+o/Users/nextstep/Desktop/simpleGame/Classes/simpleGameViewController.m: In function '-[simpleGameViewController checkCollision]':
+o/Users/nextstep/Desktop/simpleGame/Classes/simpleGameViewController.m:62: error: too many arguments to function 'CGPointMake'
+o/Users/nextstep/Desktop/simpleGame/Classes/simpleGameViewController.m:63: error: 'frame' undeclared (first use in this function)
+o/Users/nextstep/Desktop/simpleGame/Classes/simpleGameViewController.m:63: error: (Each undeclared identifier is reported only once
+o/Users/nextstep/Desktop/simpleGame/Classes/simpleGameViewController.m:63: error: for each function it appears in.)
+o/Users/nextstep/Desktop/simpleGame/Classes/simpleGameViewController.m:67: warning: unused variable 'frame2'
+o{standard input}:159:non-relocatable subtraction expression, "LC2" minus "L00000000002$pb"
+o{standard input}:159:symbol: "LC2" can't be undefined in a subtraction expression
+o{standard input}:153:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000002$pb"
+o{standard input}:153:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+o{standard input}:150:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000002$pb"
+o{standard input}:150:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:147:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_1" minus "L00000000002$pb"
+o{standard input}:147:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_1" can't be undefined in a subtraction expression
+o{standard input}:142:non-relocatable subtraction expression, "L_OBJC_IVAR_$_simpleGameViewController.randomMain$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:142:symbol: "L_OBJC_IVAR_$_simpleGameViewController.randomMain$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:134:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000002$pb"
+o{standard input}:134:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:128:non-relocatable subtraction expression, "L_OBJC_IVAR_$_simpleGameViewController.startButton$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:128:symbol: "L_OBJC_IVAR_$_simpleGameViewController.startButton$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:73:non-relocatable subtraction expression, "LC1" minus "L00000000001$pb"
+o{standard input}:73:symbol: "LC1" can't be undefined in a subtraction expression
+o{standard input}:70:non-relocatable subtraction expression, "LC0" minus "L00000000001$pb"
+o{standard input}:70:symbol: "LC0" can't be undefined in a subtraction expression
+o{standard input}:65:non-relocatable subtraction expression, "L_OBJC_IVAR_$_simpleGameViewController.pos$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:65:symbol: "L_OBJC_IVAR_$_simpleGameViewController.pos$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:58:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"
+o{standard input}:58:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+o{standard input}:54:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000001$pb"
+o{standard input}:54:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_simpleGameViewController.pos$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol LC0
+o{standard input}:unknown:Undefined local symbol LC1
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_simpleGameViewController.startButton$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_simpleGameViewController.randomMain$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3
+o{standard input}:unknown:Undefined local symbol LC2
+lSLF07#2@77"Compile /Users/nextstep/Desktop/simpleGame/Classes/simpleGameViewController.m358756869#358756869#0(5312"/Users/nextstep/Desktop/simpleGame/Classes/simpleGameViewController.m: In function '-[simpleGameViewController onTimer]':/Users/nextstep/Desktop/simpleGame/Classes/simpleGameViewController.m:47: warning: 'simpleGameViewController' may not respond to '-chechCollision'/Users/nextstep/Desktop/simpleGame/Classes/simpleGameViewController.m:47: warning: (Messages without a matching method signature/Users/nextstep/Desktop/simpleGame/Classes/simpleGameViewController.m:47: warning: will be assumed to return 'id' and accept/Users/nextstep/Desktop/simpleGame/Classes/simpleGameViewController.m:47: warning: '...' as arguments.)/Users/nextstep/Desktop/simpleGame/Classes/simpleGameViewController.m:48: error: invalid operands to binary + (have 'CGPoint' and 'CGFloat')/Users/nextstep/Desktop/simpleGame/Classes/simpleGameViewController.m:48: error: invalid operands to binary + (have 'CGPoint' and 'CGFloat')/Users/nextstep/Desktop/simpleGame/Classes/simpleGameViewController.m: In function '-[simpleGameViewController checkCollision]':/Users/nextstep/Desktop/simpleGame/Classes/simpleGameViewController.m:62: error: too many arguments to function 'CGPointMake'/Users/nextstep/Desktop/simpleGame/Classes/simpleGameViewController.m:63: error: 'frame' undeclared (first use in this function)/Users/nextstep/Desktop/simpleGame/Classes/simpleGameViewController.m:63: error: (Each undeclared identifier is reported only once/Users/nextstep/Desktop/simpleGame/Classes/simpleGameViewController.m:63: error: for each function it appears in.)/Users/nextstep/Desktop/simpleGame/Classes/simpleGameViewController.m:67: warning: unused variable 'frame2'{standard input}:159:non-relocatable subtraction expression, "LC2" minus "L00000000002$pb"{standard input}:159:symbol: "LC2" can't be undefined in a subtraction expression{standard input}:153:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000002$pb"{standard input}:153:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression{standard input}:150:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000002$pb"{standard input}:150:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:147:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_1" minus "L00000000002$pb"{standard input}:147:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_1" can't be undefined in a subtraction expression{standard input}:142:non-relocatable subtraction expression, "L_OBJC_IVAR_$_simpleGameViewController.randomMain$non_lazy_ptr" minus "L00000000002$pb"{standard input}:142:symbol: "L_OBJC_IVAR_$_simpleGameViewController.randomMain$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:134:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000002$pb"{standard input}:134:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:128:non-relocatable subtraction expression, "L_OBJC_IVAR_$_simpleGameViewController.startButton$non_lazy_ptr" minus "L00000000002$pb"{standard input}:128:symbol: "L_OBJC_IVAR_$_simpleGameViewController.startButton$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:73:non-relocatable subtraction expression, "LC1" minus "L00000000001$pb"{standard input}:73:symbol: "LC1" can't be undefined in a subtraction expression{standard input}:70:non-relocatable subtraction expression, "LC0" minus "L00000000001$pb"{standard input}:70:symbol: "LC0" can't be undefined in a subtraction expression{standard input}:65:non-relocatable subtraction expression, "L_OBJC_IVAR_$_simpleGameViewController.pos$non_lazy_ptr" minus "L00000000001$pb"{standard input}:65:symbol: "L_OBJC_IVAR_$_simpleGameViewController.pos$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:58:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"{standard input}:58:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:54:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000001$pb"{standard input}:54:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_simpleGameViewController.pos$non_lazy_ptr{standard input}:unknown:Undefined local symbol LC0{standard input}:unknown:Undefined local symbol LC1{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_simpleGameViewController.startButton$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_simpleGameViewController.randomMain$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_1{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3{standard input}:unknown:Undefined local symbol LC27(22@63"'simpleGameViewController' may not respond to '-chechCollision'358756869#122#147#0(6@69"/Users/nextstep/Desktop/simpleGame/Classes/simpleGameViewController.m358756865#47#0#47#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)358756869#269#129#0(6@69"/Users/nextstep/Desktop/simpleGame/Classes/simpleGameViewController.m358756865#47#0#47#0#0"0(4@59"Invalid operands to binary + (have 'CGPoint' and 'CGFloat')358756869#627#141#0(6@69"/Users/nextstep/Desktop/simpleGame/Classes/simpleGameViewController.m358756865#48#0#48#0#0"0(4@59"Invalid operands to binary + (have 'CGPoint' and 'CGFloat')358756869#768#141#0(6@69"/Users/nextstep/Desktop/simpleGame/Classes/simpleGameViewController.m358756865#48#0#48#0#0"0(4@44"Too many arguments to function 'CGPointMake'358756869#1038#126#0(6@69"/Users/nextstep/Desktop/simpleGame/Classes/simpleGameViewController.m358756865#62#0#62#0#0"0(4@47"'frame' undeclared (first use in this function)358756869#1164#129#0(6@69"/Users/nextstep/Desktop/simpleGame/Classes/simpleGameViewController.m358756865#63#0#63#0#43"'*' undeclared (first use in this function)0(22@24"Unused variable 'frame2'358756869#1539#108#0(6@69"/Users/nextstep/Desktop/simpleGame/Classes/simpleGameViewController.m358756865#67#0#67#0#19"unused variable '*'0(0#0#69"/Users/nextstep/Desktop/simpleGame/Classes/simpleGameViewController.m8625250816#1978"    cd /Users/nextstep/Desktop/simpleGame    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/nextstep/Desktop/simpleGame/build/simpleGame.build/Debug-iphonesimulator/simpleGame.build/simpleGame-generated-files.hmap -I/Users/nextstep/Desktop/simpleGame/build/simpleGame.build/Debug-iphonesimulator/simpleGame.build/simpleGame-own-target-headers.hmap -I/Users/nextstep/Desktop/simpleGame/build/simpleGame.build/Debug-iphonesimulator/simpleGame.build/simpleGame-all-target-headers.hmap -iquote /Users/nextstep/Desktop/simpleGame/build/simpleGame.build/Debug-iphonesimulator/simpleGame.build/simpleGame-project-headers.hmap -F/Users/nextstep/Desktop/simpleGame/build/Debug-iphonesimulator -I/Users/nextstep/Desktop/simpleGame/build/Debug-iphonesimulator/include -I/Users/nextstep/Desktop/simpleGame/build/simpleGame.build/Debug-iphonesimulator/simpleGame.build/DerivedSources/i386 -I/Users/nextstep/Desktop/simpleGame/build/simpleGame.build/Debug-iphonesimulator/simpleGame.build/DerivedSources -include /var/folders/0G/0GROdNlbFX4fP0X0dyAlqE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/simpleGame_Prefix-bxjculojflyopwbsmacymmxliacg/simpleGame_Prefix.pch -c /Users/nextstep/Desktop/simpleGame/Classes/simpleGameViewController.m -o /Users/nextstep/Desktop/simpleGame/build/simpleGame.build/Debug-iphonesimulator/simpleGame.build/Objects-normal/i386/simpleGameViewController.o1#
+
+CCompileXIB /Users/nextstep/Desktop/simpleGame/MainWindow.xib
+s358756868.170079
+e358756868.719979
+r1
+xCompileXIB
+x/Users/nextstep/Desktop/simpleGame/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib358756868#358756868#0(0"0(0#0#49"/Users/nextstep/Desktop/simpleGame/MainWindow.xib8626874080#561"    cd /Users/nextstep/Desktop/simpleGame    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/nextstep/Desktop/simpleGame/build/Debug-iphonesimulator/simpleGame.app/MainWindow.nib /Users/nextstep/Desktop/simpleGame/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/nextstep/Desktop/simpleGame/simpleGameViewController.xib
+s358756868.171922
+e358756868.712810
+r1
+xCompileXIB
+x/Users/nextstep/Desktop/simpleGame/simpleGameViewController.xib
+lSLF07#2@39"CompileXIB simpleGameViewController.xib358756868#358756868#0(0"0(0#0#63"/Users/nextstep/Desktop/simpleGame/simpleGameViewController.xib8626738240#589"    cd /Users/nextstep/Desktop/simpleGame    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/nextstep/Desktop/simpleGame/build/Debug-iphonesimulator/simpleGame.app/simpleGameViewController.nib /Users/nextstep/Desktop/simpleGame/simpleGameViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/simpleGame.app/tennis.jpg tennis.jpg
+s358756868.714899
+e358756868.740221
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/simpleGame.app/tennis.jpg
+xtennis.jpg
+lSLF07#2@15"Copy tennis.jpg358756868#358756868#0(0"0(0#0#45"/Users/nextstep/Desktop/simpleGame/tennis.jpg8626441664#459"    cd /Users/nextstep/Desktop/simpleGame    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/nextstep/Desktop/simpleGame/tennis.jpg /Users/nextstep/Desktop/simpleGame/build/Debug-iphonesimulator/simpleGame.app0#
+
+CCpResource build/Debug-iphonesimulator/simpleGame.app/tennis1.jpeg tennis1.jpeg
+s358756868.712923
+e358756868.740026
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/simpleGame.app/tennis1.jpeg
+xtennis1.jpeg
+lSLF07#2@17"Copy tennis1.jpeg358756868#358756868#0(0"0(0#0#47"/Users/nextstep/Desktop/simpleGame/tennis1.jpeg8626904352#461"    cd /Users/nextstep/Desktop/simpleGame    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/nextstep/Desktop/simpleGame/tennis1.jpeg /Users/nextstep/Desktop/simpleGame/build/Debug-iphonesimulator/simpleGame.app0#
+
+CGenerateDSYMFile /Users/nextstep/Desktop/simpleGame/build/Debug-iphonesimulator/simpleGame.app.dSYM /Users/nextstep/Desktop/simpleGame/build/Debug-iphonesimulator/simpleGame.app/simpleGame
+r0
+
+CLd /Users/nextstep/Desktop/simpleGame/build/Debug-iphonesimulator/simpleGame.app/simpleGame normal i386
+r0
+
+CProcessInfoPlistFile /Users/nextstep/Desktop/simpleGame/build/Debug-iphonesimulator/simpleGame.app/Info.plist simpleGame-Info.plist
+s358756868.125471
+e358756868.169951
+r1
+xProcessInfoPlistFile
+x/Users/nextstep/Desktop/simpleGame/build/Debug-iphonesimulator/simpleGame.app/Info.plist
+xsimpleGame-Info.plist
+lSLF07#2@29"Process simpleGame-Info.plist358756868#358756868#0(0"0(0#0#56"/Users/nextstep/Desktop/simpleGame/simpleGame-Info.plist29555366482477168#476"    cd /Users/nextstep/Desktop/simpleGame    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility simpleGame-Info.plist -genpkginfo /Users/nextstep/Desktop/simpleGame/build/Debug-iphonesimulator/simpleGame.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/nextstep/Desktop/simpleGame/build/Debug-iphonesimulator/simpleGame.app/Info.plist0#
+
+CProcessPCH /var/folders/0G/0GROdNlbFX4fP0X0dyAlqE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/simpleGame_Prefix-bxjculojflyopwbsmacymmxliacg/simpleGame_Prefix.pch.gch simpleGame_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s358756868.740381
+e358756869.737126
+r1
+xProcessPCH
+x/var/folders/0G/0GROdNlbFX4fP0X0dyAlqE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/simpleGame_Prefix-bxjculojflyopwbsmacymmxliacg/simpleGame_Prefix.pch.gch
+xsimpleGame_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile simpleGame_Prefix.pch358756868#358756869#0(0"0(0#0#56"/Users/nextstep/Desktop/simpleGame/simpleGame_Prefix.pch8626233888#1823"    cd /Users/nextstep/Desktop/simpleGame    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/nextstep/Desktop/simpleGame/build/simpleGame.build/Debug-iphonesimulator/simpleGame.build/simpleGame-generated-files.hmap -I/Users/nextstep/Desktop/simpleGame/build/simpleGame.build/Debug-iphonesimulator/simpleGame.build/simpleGame-own-target-headers.hmap -I/Users/nextstep/Desktop/simpleGame/build/simpleGame.build/Debug-iphonesimulator/simpleGame.build/simpleGame-all-target-headers.hmap -iquote /Users/nextstep/Desktop/simpleGame/build/simpleGame.build/Debug-iphonesimulator/simpleGame.build/simpleGame-project-headers.hmap -F/Users/nextstep/Desktop/simpleGame/build/Debug-iphonesimulator -I/Users/nextstep/Desktop/simpleGame/build/Debug-iphonesimulator/include -I/Users/nextstep/Desktop/simpleGame/build/simpleGame.build/Debug-iphonesimulator/simpleGame.build/DerivedSources/i386 -I/Users/nextstep/Desktop/simpleGame/build/simpleGame.build/Debug-iphonesimulator/simpleGame.build/DerivedSources -c /Users/nextstep/Desktop/simpleGame/simpleGame_Prefix.pch -o /var/folders/0G/0GROdNlbFX4fP0X0dyAlqE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/simpleGame_Prefix-bxjculojflyopwbsmacymmxliacg/simpleGame_Prefix.pch.gch0#
+
+CTouch /Users/nextstep/Desktop/simpleGame/build/Debug-iphonesimulator/simpleGame.app
+r0
+
